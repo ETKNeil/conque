@@ -2,7 +2,7 @@
 name = "conque"
 version = "0.0.0"
 edition = "2021"
-authors = ["ETKNeil contact_tehtris@protonmail.com"]
+authors = ["ETKNeil tehtris_github[at]protonmail[dot]com"]
 license = "Commercial"
 
 [dependencies]
