@@ -1,9 +1,9 @@
 [package]
 name = "conque"
-version = "0.0.0"
+version = "0.0.0-alpha"
 edition = "2021"
 authors = ["ETKNeil tehtris_github[at]protonmail[dot]com"]
-license = "Commercial"
+license = "Unlicense"
 description = "Placeholder to avoid name shadowing"
 
 [dependencies]
